@@ -19,8 +19,8 @@ export default defineConfig({
 					label: 'REP',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Why??', link: '/rep/thanks/' },
-						{ label: 'About us', link: '/rep/about/' },
+						{ label: 'Why??', link: 'rep/thanks/' },
+						{ label: 'About us', link: 'rep/about/' },
 					],
 				},
 				{
