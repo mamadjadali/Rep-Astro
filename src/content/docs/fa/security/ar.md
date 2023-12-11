@@ -1,5 +1,5 @@
 ---
-title: Availability and Resiliency
+title: در دسـتـرس و انـعـطـافـ‌پـذیـر
 description: Availability and Resiliency service offered by REP
 ---
 :::note

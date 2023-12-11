@@ -25,7 +25,7 @@ export default defineConfig({
 				'./src/style/custom.css',
 			],
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/mamadjadali/',
 			},
 			sidebar: [
 				{

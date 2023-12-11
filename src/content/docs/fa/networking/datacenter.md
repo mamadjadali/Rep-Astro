@@ -1,19 +1,15 @@
 ---
-title: Data Center
+title: دیتا سنتر
 description: Data Center service offered by REP
 ---
 
-The Data Center solutions offered by REP are designed to provide businesses with a scalable and secure infrastructure for hosting their critical data and applications. Rep's team of experts can help you design and implement a data center that meets your specific needs, whether you require a small server room or a large-scale data center.
-Here are some more details :
+سولوشن های مرکز داده ای که توسط شرکت REP ارائه می شوند، برای فراهم کردن زیرساخت امن و قابل توسعه برای میزبانی داده ها و برنامه های حیاتی کسب و کارها طراحی شده اند. تیم کارشناسان REP می توانند به شما در طراحی و پیاده سازی یک مرکز داده که نیازهای خاص شما را برآورده می کند، کمک کنند، بدون اینکه اندازه آن مهم باشد، آیا شما به یک اتاق سرور کوچک نیاز دارید یا یک مرکز داده بزرگ مقیاس.
 
-## Data center design
-Rep can help you design a data center that is tailored to your specific needs. We will take into account factors such as the size of your business, the number of users, the type of applications used, and the level of security required to create a customized data center design.
-
-## Data center implementation
-Once the data center design is finalized, Rep can help you implement the data center, ensuring that all the necessary equipment and software are installed and configured correctly. We will also test the data center to ensure that it is functioning properly and that all the devices are communicating with each other.
-
-## Data center maintenance
-Rep offers ongoing maintenance and support for your data center, including regular updates, patches, and security checks. We can also provide troubleshooting and problem resolution services to ensure that your data center is always running smoothly.
-
-## Data center security
-Rep can also help you with data center security, ensuring that your data is protected against unauthorized access and other security threats. We can help you with physical security measures such as access control, video surveillance, and intrusion detection systems, aswell as network security measures such as firewalls, intrusion detection and prevention, and VPN solutions.
+## طراحی دیتا سنتر 
+REP می تواند به شما در طراحی یک مرکز داده که به نیازهای خاص شما سازگار باشد، کمک کند. ما عواملی از قبیل اندازه کسب و کار شما، تعداد کاربران، نوع برنامه های استفاده شده و سطح امنیت مورد نیاز را در نظر می گیریم تا یک طراحی مرکز داده سفارشی ایجاد کنیم.
+## نصب دیتا سنتر
+پس از طراحی مرکز داده سازگار شد، REP می تواند به شما انجام از مرکز داده که تمام از مورد نیز پیش‌بینی و نصال در اندازه دورران انجام است. بررخی از این قابل به دست انجام از مرکز داده برای امتحاد کار و تسجیل ارتباط بین الوحدات در حال حاضر از عمل در اندازه دورران انجام است.
+## نگهداری و پشتیبانی مرکز داده
+REP نگهداری و پشتیبانی مداوم برای مرکز داده شما، از جمله به‌روزرسانی‌های منظم، پچ‌ها و بررسی‌های امنیتی ارائه می‌دهد. ما همچنین می‌توانیم خدمات رفع مشکلات و رفع مشکلات را ارائه دهیم تا اطمینان حاصل شود که مرکز داده شما همیشه به خوبی کار می‌کند و تمام دستگاه‌ها با یکدیگر ارتباط برقرار می‌کنند.
+## امنیت دیتا سنتر
+REP همچنین می‌تواند به شما در امنیت مرکز داده کمک کند و اطمینان حاصل کند که داده‌های شما در برابر دسترسی غیرمجاز و تهدیدات امنیتی دیگر محافظت می‌شوند. ما می‌توانیم به شما در مورد اقدامات امنیتی فیزیکی مانند کنترل دسترسی، نظارت تصویری و سیستم‌های تشخیص نفوذ کمک کنیم، همچنین در مورد اقدامات امنیتی شبکه مانند دیواره‌های آتش، تشخیص و پیشگیری از نفوذ و راه‌حل‌های VPN کمک می‌کنیم.
