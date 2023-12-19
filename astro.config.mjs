@@ -23,6 +23,7 @@ export default defineConfig({
 			customCss: [
 				// Relative path to your custom CSS file
 				'./src/style/custom.css',
+				'./src/fonts/font-face.css',
 			],
 			social: {
 				github: 'https://github.com/mamadjadali/',
